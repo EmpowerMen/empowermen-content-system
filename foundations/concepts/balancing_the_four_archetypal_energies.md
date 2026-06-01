@@ -1,6 +1,5 @@
-# Core Principles: Balancing the Four Archetypal Energies
+# Balancing the Four Archetypal Energies
 
-## From Robert Moore’s “From Chaos to Cosmos”
 
 ---
 
