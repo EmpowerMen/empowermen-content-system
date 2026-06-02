@@ -1,6 +1,4 @@
----
-
-## title: “The King Archetype”
+## The King Archetype
 
 series: “A Study in Masculine Psychology: The King Within”
 
