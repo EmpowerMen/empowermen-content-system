@@ -183,6 +183,13 @@ If you're still experiencing issues, contact support@example.com.
 - Purpose: Community engagement
 - Context: User group for app
 
+
+## Archetypal Shadow Social Post Template
+
+A reusable template for creating social media posts that explain male psychological patterns using Robert Moore’s archetypal framework.
+
+See the full template [here](./archetypal-shadow-template.md).
+
 **Output:**
 ```
 Quick question for the community:
