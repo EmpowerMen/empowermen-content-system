@@ -1,5 +1,5 @@
 <csartifact identifier="archetypal-self-lecture-notes" type="text/markdown" title="Lecture Notes on Archetypal Self with Transcript">
-# The Archetypal Self and the Fourfold Developmental Code
+# A Neo-Jungian Mapping of the Psyche
 
 ---
 
