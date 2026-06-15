@@ -17,7 +17,20 @@ EmpowerMen content must be written in a distinctive style that reflects our bran
 - **Avoid Jargon and Academic Language:** Keep language accessible without oversimplifying.
 - **Consistent Masculine Pronouns:** Use "he," "him," "his," and "you" when addressing men directly.
 
+### Recommended Content Structure
 
+To maximize engagement and clarity, EmpowerMen content should follow a three-act storytelling arc when appropriate:
+
+1. **Act One: Awareness (The Problem)**  
+   Introduce a relatable problem or truth that the reader can identify with. This sets the stage and builds empathy.
+
+2. **Act Two: Initiation (Insight and Reframing)**  
+   Provide expert insight, new perspectives, or reframing of the problem. Incorporate direct quotes from EmpowerMen foundational texts or recognized experts.
+
+3. **Act Three: Return (Mastery and Role Models)**  
+   Demonstrate examples of mastery or role models embodying the mature masculine archetype. End with a call to action or encouragement for the reader’s own journey.
+
+Use headings and short paragraphs to enhance readability.
 
 
 ## Scope
@@ -108,6 +121,48 @@ This pattern:
 Example:
 - ❌ "The Warrior isn't about aggression—it's about discipline"
 - ✅ "The Warrior embodies discipline and clear boundaries"
+
+### Dos and Don'ts for EmpowerMen Style
+
+**Do:**
+
+- Use masculine pronouns consistently and address the reader directly.
+- Include vivid examples and cultural references relevant to men’s experiences.
+- Incorporate direct quotes from EmpowerMen source texts.
+- Write in a conversational, engaging tone.
+- Use rhetorical questions to provoke thought, but sparingly.
+- Keep sentences clear, concise, and punchy.
+- Maintain a balanced masculine energy: confident, empathetic, and occasionally playful.
+
+**Don't:**
+
+- Overuse em-dashes or complex punctuation that disrupts flow.
+- Use formulaic phrases like "X isn’t about X, it’s about Y."
+- Write in overly academic or jargon-heavy language.
+- Use passive voice excessively.
+- Hedge statements or sound uncertain.
+- Use feminine pronouns or neutral language when addressing men.
+
+### Style Exemplars
+
+Below are excerpts demonstrating the EmpowerMen writing style for AI content:
+
+> You’ve probably heard about the King, Warrior, Magician, and Lover. But do you really know what they mean? These aren’t just fancy labels. They are the four archetypes of mature masculinity — hardwired patterns inside every man.
+
+> The King brings order and blessing. The Warrior moves with courage and precision. The Magician holds the knowledge that transforms. The Lover connects you deeply to life.
+
+> Here’s the brutal truth: most men only know fragments of these energies. Instead of the King, you get the Tyrant. Instead of the Warrior, the Bully. Instead of the Magician, the Manipulator. Instead of the Lover, the Addict.
+
+> Moore and Gillette put it plainly: “Patriarchy is not the expression of deep and rooted masculinity. Patriarchy is the expression of the immature masculine.”
+
+> The crisis isn’t too much masculinity — it’s too little mature masculinity. Imagine what your life would look like if you accessed all four in their fullness.
+
+### Use of Quotes
+
+Incorporate direct quotes from EmpowerMen foundational texts (especially *King Warrior Magician Lover*) to anchor content in our intellectual tradition and lend authority. Quotes should be integrated naturally, supporting key points without overwhelming the narrative.
+
+---
+
 
 ## Interaction with Skills
 
