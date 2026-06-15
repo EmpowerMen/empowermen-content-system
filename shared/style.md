@@ -1,5 +1,25 @@
 # Style Standards
 
+### Writing Style for AI-Generated Content
+
+EmpowerMen content must be written in a distinctive style that reflects our brand’s voice and resonates deeply with our audience. AI-generated content should follow these style principles:
+
+- **Direct and Conversational:** Write as if speaking directly to the reader. Use "you" and "we" to create immediacy and connection.
+- **Three-Act Narrative Structure:** When possible, structure content in three parts:
+  1. **Awareness:** Present a relatable problem or truth.
+  2. **Initiation:** Offer insight, reframing, or expert perspective.
+  3. **Return:** Show mastery, role models, or a call to action.
+- **Vivid, Concrete Examples:** Use cultural references, real-life stories, or well-known figures to ground abstract ideas.
+- **Mix Storytelling with Expert Insight:** Combine narrative elements with direct quotes or references from EmpowerMen sources (e.g., *King Warrior Magician Lover*).
+- **Clear, Punchy Sentences:** Favor short to medium sentences that are easy to read and impactful.
+- **Masculine Energy Balance:** Maintain a tone that is confident, no-nonsense, empathetic, and occasionally playful or ironic.
+- **Use Rhetorical Questions Sparingly:** Engage readers but avoid overuse.
+- **Avoid Jargon and Academic Language:** Keep language accessible without oversimplifying.
+- **Consistent Masculine Pronouns:** Use "he," "him," "his," and "you" when addressing men directly.
+
+
+
+
 ## Scope
 
 Capitalization, punctuation, formatting, and structure rules for all content outputs.
