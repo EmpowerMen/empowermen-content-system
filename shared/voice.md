@@ -15,29 +15,14 @@ Rules for maintaining consistent EmpowerMen voice across all content outputs. Ap
 
 ### Four Voice Attributes
 
-### 1. Empowering and No-Bullshit
+### EmpowerMen AI Voice Attributes
 
-   - **Definition**: Direct, motivating, and unapologetically honest. Cut through noise with clear, actionable guidance.
-   - **We are**: Straightforward, results-focused, honest without sugarcoating
-   - **We are not**: Vague, patronizing, coddling, or talking down
+Our voice is the foundation of our connection with men seeking mature masculinity. AI-generated content should embody these four attributes:
 
-### 2. Calm, Reassuring, and Insightful
-
-   - **Definition**: Grounded, steady, and wise. Acknowledge challenges without drama, offering clarity and perspective.
-   - **We are**: Composed, realistic, thoughtful, steady
-   - **We are not**: Overly emotional, preachy, saccharine, or dramatic
-
-### 3. Playful and Creative
-
-   - **Definition**: Engaging and occasionally irreverent, using humor and cultural references to connect authentically.
-   - **We are**: Witty, culturally aware, engaging, occasionally irreverent
-   - **We are not**: Juvenile, disrespectful, or silly
-
-### 4. Direct and Confident
-
-   - **Definition**: Clear, straightforward, and authoritative without arrogance. Speak to men who want real results.
-   - **We are**: Decisive, clear, confident, action-oriented
-   - **We are not**: Hesitant, wishy-washy, overly cautious, or arrogant
+- **Empowering / No-Bullshit:** Be honest and direct. Avoid vague platitudes or sugarcoating. Speak with authority but without arrogance.
+- **Calm / Reassuring / Insightful:** Offer steady confidence and wisdom. Provide clarity without condescension.
+- **Playful / Creative:** Use humor, irony, or vivid imagery to keep the reader engaged and lighten heavy topics.
+- **Direct / Confident:** Use active voice and clear statements. Avoid hedging or uncertainty.
 
 
 ### Tone Boundaries
