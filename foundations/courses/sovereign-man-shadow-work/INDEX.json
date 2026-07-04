@@ -1,0 +1,39 @@
+{
+  "course": "The Sovereign Man: A Shadow Work Online Course",
+  "url": "https://masculinetest.com/home/sovereign-man-a-shadow-work-online-course/",
+  "modules": [
+    {
+      "id": "king-within",
+      "name": "The King Within",
+      "folder": "modules/king-within/",
+      "description": "Exploration of the King archetype, its mature expression, and shadow manifestations",
+      "chapters": 5,
+      "contents": [
+        "workbook.md",
+        "aims-and-practices.md",
+        "movie-assignments.md",
+        "video-transcripts/chapter-1.md",
+        "video-transcripts/chapter-2.md",
+        "video-transcripts/chapter-3.md",
+        "video-transcripts/chapter-4.md",
+        "video-transcripts/chapter-5.md"
+      ],
+      "key_topics": [
+        "King archetype",
+        "Archetypal integration",
+        "Shadow work",
+        "Tyrant King",
+        "Weakling King",
+        "Centeredness",
+        "Leadership",
+        "Blessing"
+      ],
+      "email_themes": [
+        "archetype-insight",
+        "shadow-work-prompt",
+        "storytelling-movie-assignment",
+        "common-pitfalls"
+      ]
+    }
+  ]
+}
