@@ -1,8 +1,8 @@
-# The King Within Module
+# The Lover Within Module
 
 ## Module Overview
 
-**Module Name:** The King Within
+**Module Name:** The Lover Within
 
 **Part of Course:** The Sovereign Man: A Shadow Work Online Course
 
@@ -10,12 +10,12 @@
 
 ## Purpose
 
-This module explores the King archetype as the organizing force and cornerstone of mature masculinity. Through video teachings, workbook exercises, and shadow work, participants learn to:
+This module explores the Lover archetype as a force of connection, passion, and embodied presence. Through video teachings, workbook exercises, and shadow work, participants learn to:
 
-- Understand the King archetype's role in masculine psychology
-- Recognize shadow manifestations (Tyrant and Weakling)
-- Integrate King energy with other archetypes (Warrior, Magician, Lover)
-- Develop centeredness, emotional stability, and authentic leadership
+- Understand the Lover archetype's role in masculine psychology
+- Recognize shadow manifestations (Addicted Lover and Impotent Lover)
+- Integrate Lover energy with other archetypes (King, Warrior, Magician)
+- Develop authentic connection, vitality, and embodied presence
 - Apply archetypal insights to personal growth and action plans
 
 ## Contents
@@ -41,11 +41,11 @@ The module contains 5 video chapters:
 
 ## Key Topics Covered
 
-- King archetype overview
-- Relationship of King to other archetypes
-- Shadow work: Tyrant King (inflated) and Weakling King (deflated)
-- Centeredness and emotional regulation
-- Leadership and blessing
+- Lover archetype overview
+- Relationship of Lover to other archetypes
+- Shadow work: Addicted Lover (inflated) and Impotent Lover (deflated)
+- Connection and intimacy
+- Passion and embodied presence
 - Practical exercises and action planning
 - Archetypal integration practices
 
@@ -53,7 +53,7 @@ The module contains 5 video chapters:
 
 This module supports these email types (see `/skills/marketing/writing-course-promotion-emails/`):
 
-1. **Archetype Insight Email** - Teachings about King integration
+1. **Archetype Insight Email** - Teachings about Lover integration
 2. **Shadow Work Prompt Email** - Reflective questions from workbook
 3. **Storytelling / Movie Assignment Email** - Archetypal characters and films
 4. **Common Pitfalls Email** - Shadow manifestations and solutions
@@ -89,19 +89,19 @@ This module supports these email types (see `/skills/marketing/writing-course-pr
 **Standard citation:**
 ```
 "[Quote or concept]"
-— The Sovereign Man: A Shadow Work Online Course, King Within Module
+— The Sovereign Man: A Shadow Work Online Course, Lover Within Module
 ```
 
 **With video chapter reference:**
 ```
 "[Quote]"
-— The Sovereign Man: A Shadow Work Online Course, King Within Module, Chapter [#]
+— The Sovereign Man: A Shadow Work Online Course, Lover Within Module, Chapter [#]
 ```
 
 ## Module Structure
 
 ```
-modules/king-within/
+modules/lover-within/
 ├── README.md                          # This file
 ├── workbook.md                        # Exercises and frameworks
 ├── aims-and-practices.md              # Goals and applications
@@ -123,4 +123,4 @@ modules/king-within/
 ---
 
 **Course URL:** https://masculinetest.com/home/sovereign-man-a-shadow-work-online-course/
-**Module:** The King Within
+**Module:** The Lover Within

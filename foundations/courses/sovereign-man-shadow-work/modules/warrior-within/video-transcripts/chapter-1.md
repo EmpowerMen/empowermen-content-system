@@ -1,15 +1,17 @@
-# The King Within - Aims and Practices
+# The Warrior Within - Chapter 1 Transcript
 
 **Course:** The Sovereign Man: A Shadow Work Online Course
 
-**Module:** The King Within
+**Module:** The Warrior Within
+
+**Chapter:** 1
 
 **URL:** https://masculinetest.com/home/sovereign-man-a-shadow-work-online-course/
 
 ---
 
-## AIMS AND PRACTICES
+## CHAPTER 1 TRANSCRIPT
 
-*Add aims and practices content here*
+*Add video transcript content here*
 
 ---

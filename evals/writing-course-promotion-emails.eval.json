@@ -1,0 +1,205 @@
+{
+  "skill": "skills/marketing/writing-course-promotion-emails",
+  "version": "1.0",
+  "description": "Evaluation cases for course promotion email skill",
+  "cases": [
+    {
+      "id": "king-archetype-insight",
+      "description": "Archetype Insight email about King archetype integration with other archetypes",
+      "type": "archetype-insight",
+      "input": {
+        "course": "The Sovereign Man: A Shadow Work Online Course",
+        "module": "king-within",
+        "email_type": "archetype-insight",
+        "focus": "king-warrior-magician-lover-integration",
+        "source_files": [
+          "modules/king-within/video-transcripts/",
+          "modules/king-within/workbook.md"
+        ]
+      },
+      "expected": {
+        "has_subject": true,
+        "has_opening_hook": true,
+        "has_body_with_2_3_examples": true,
+        "has_reflection_prompt": true,
+        "has_cta": true,
+        "has_signoff": true,
+        "word_count_range": "200-300"
+      },
+      "rubric_checks": [
+        "uses-only-course-content",
+        "one-focused-theme",
+        "includes-reflection-prompt",
+        "clear-cta",
+        "empowermen-voice",
+        "nurture-tone",
+        "proper-email-format",
+        "appropriate-length"
+      ]
+    },
+    {
+      "id": "shadow-work-emotional-stability",
+      "description": "Shadow Work Prompt email about emotional stability and self-assurance",
+      "type": "shadow-work-prompt",
+      "input": {
+        "course": "The Sovereign Man: A Shadow Work Online Course",
+        "module": "king-within",
+        "email_type": "shadow-work-prompt",
+        "focus": "emotional-stability-self-assurance",
+        "source_files": [
+          "modules/king-within/workbook.md",
+          "modules/king-within/video-transcripts/"
+        ]
+      },
+      "expected": {
+        "has_subject": true,
+        "has_opening_context": true,
+        "has_3_questions": true,
+        "has_insight_section": true,
+        "has_exercise_prompt": true,
+        "has_reflection_prompt": true,
+        "has_cta": true,
+        "word_count_range": "220-320"
+      },
+      "rubric_checks": [
+        "uses-only-course-content",
+        "one-focused-theme",
+        "includes-reflection-prompt",
+        "clear-cta",
+        "empowermen-voice",
+        "nurture-tone",
+        "actionable-questions"
+      ]
+    },
+    {
+      "id": "storytelling-king-archetype-film",
+      "description": "Storytelling email using King archetype character and film assignment",
+      "type": "storytelling-movie-assignment",
+      "input": {
+        "course": "The Sovereign Man: A Shadow Work Online Course",
+        "module": "king-within",
+        "email_type": "storytelling-movie-assignment",
+        "focus": "king-archetype-through-film",
+        "source_files": [
+          "modules/king-within/movie-assignments.md",
+          "modules/king-within/video-transcripts/"
+        ]
+      },
+      "expected": {
+        "has_subject": true,
+        "has_character_intro": true,
+        "has_narrative_context": true,
+        "has_challenge_section": true,
+        "has_reflection_points": true,
+        "has_cta": true,
+        "word_count_range": "240-350"
+      },
+      "rubric_checks": [
+        "uses-only-course-content",
+        "one-focused-theme",
+        "references-movie-assignment",
+        "clear-cta",
+        "engaging-tone",
+        "proper-email-format"
+      ]
+    },
+    {
+      "id": "common-pitfall-ego-identification",
+      "description": "Common Pitfalls email about ego identification with King archetype",
+      "type": "common-pitfalls",
+      "input": {
+        "course": "The Sovereign Man: A Shadow Work Online Course",
+        "module": "king-within",
+        "email_type": "common-pitfalls",
+        "focus": "ego-identification-with-king-archetype",
+        "source_files": [
+          "modules/king-within/video-transcripts/",
+          "modules/king-within/aims-and-practices.md"
+        ]
+      },
+      "expected": {
+        "has_subject": true,
+        "has_pitfall_explanation": true,
+        "has_impact_section": true,
+        "has_path_forward": true,
+        "has_reflection_prompt": true,
+        "has_cta": true,
+        "word_count_range": "250-360"
+      },
+      "rubric_checks": [
+        "uses-only-course-content",
+        "one-focused-pitfall",
+        "includes-reflection-prompt",
+        "clear-cta",
+        "compassionate-tone",
+        "grounded-in-psychology"
+      ]
+    },
+    {
+      "id": "common-pitfall-tyrant-king",
+      "description": "Common Pitfalls email about Tyrant King shadow manifestation",
+      "type": "common-pitfalls",
+      "input": {
+        "course": "The Sovereign Man: A Shadow Work Online Course",
+        "module": "king-within",
+        "email_type": "common-pitfalls",
+        "focus": "tyrant-king-inflated-shadow",
+        "source_files": [
+          "modules/king-within/video-transcripts/",
+          "modules/king-within/aims-and-practices.md"
+        ]
+      },
+      "expected": {
+        "has_subject": true,
+        "has_shadow_explanation": true,
+        "has_characteristics_list": true,
+        "has_impact_section": true,
+        "has_path_forward": true,
+        "has_reflection_prompt": true,
+        "has_cta": true,
+        "word_count_range": "250-360"
+      },
+      "rubric_checks": [
+        "uses-only-course-content",
+        "specific-pitfall-tyrant-king",
+        "includes-reflection-prompt",
+        "clear-cta",
+        "compassionate-toward-shadow",
+        "empowering-not-shaming"
+      ]
+    },
+    {
+      "id": "common-pitfall-weakling-king",
+      "description": "Common Pitfalls email about Weakling King shadow manifestation",
+      "type": "common-pitfalls",
+      "input": {
+        "course": "The Sovereign Man: A Shadow Work Online Course",
+        "module": "king-within",
+        "email_type": "common-pitfalls",
+        "focus": "weakling-king-deflated-shadow",
+        "source_files": [
+          "modules/king-within/video-transcripts/",
+          "modules/king-within/aims-and-practices.md"
+        ]
+      },
+      "expected": {
+        "has_subject": true,
+        "has_shadow_explanation": true,
+        "has_characteristics_list": true,
+        "has_impact_section": true,
+        "has_path_forward": true,
+        "has_reflection_prompt": true,
+        "has_cta": true,
+        "word_count_range": "250-360"
+      },
+      "rubric_checks": [
+        "uses-only-course-content",
+        "specific-pitfall-weakling-king",
+        "includes-reflection-prompt",
+        "clear-cta",
+        "empowering-tone",
+        "actionable-reflection"
+      ]
+    }
+  ]
+}

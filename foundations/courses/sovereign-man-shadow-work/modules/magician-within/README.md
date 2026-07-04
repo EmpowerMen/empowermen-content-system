@@ -1,8 +1,8 @@
-# The King Within Module
+# The Magician Within Module
 
 ## Module Overview
 
-**Module Name:** The King Within
+**Module Name:** The Magician Within
 
 **Part of Course:** The Sovereign Man: A Shadow Work Online Course
 
@@ -10,12 +10,12 @@
 
 ## Purpose
 
-This module explores the King archetype as the organizing force and cornerstone of mature masculinity. Through video teachings, workbook exercises, and shadow work, participants learn to:
+This module explores the Magician archetype as a force of knowledge, transformation, and insight. Through video teachings, workbook exercises, and shadow work, participants learn to:
 
-- Understand the King archetype's role in masculine psychology
-- Recognize shadow manifestations (Tyrant and Weakling)
-- Integrate King energy with other archetypes (Warrior, Magician, Lover)
-- Develop centeredness, emotional stability, and authentic leadership
+- Understand the Magician archetype's role in masculine psychology
+- Recognize shadow manifestations (Manipulator and Naif)
+- Integrate Magician energy with other archetypes (King, Warrior, Lover)
+- Develop awareness, wisdom, and transformative power
 - Apply archetypal insights to personal growth and action plans
 
 ## Contents
@@ -41,11 +41,11 @@ The module contains 5 video chapters:
 
 ## Key Topics Covered
 
-- King archetype overview
-- Relationship of King to other archetypes
-- Shadow work: Tyrant King (inflated) and Weakling King (deflated)
-- Centeredness and emotional regulation
-- Leadership and blessing
+- Magician archetype overview
+- Relationship of Magician to other archetypes
+- Shadow work: Manipulator (inflated) and Naif (deflated)
+- Knowledge and awareness
+- Transformative power and insight
 - Practical exercises and action planning
 - Archetypal integration practices
 
@@ -53,7 +53,7 @@ The module contains 5 video chapters:
 
 This module supports these email types (see `/skills/marketing/writing-course-promotion-emails/`):
 
-1. **Archetype Insight Email** - Teachings about King integration
+1. **Archetype Insight Email** - Teachings about Magician integration
 2. **Shadow Work Prompt Email** - Reflective questions from workbook
 3. **Storytelling / Movie Assignment Email** - Archetypal characters and films
 4. **Common Pitfalls Email** - Shadow manifestations and solutions
@@ -89,19 +89,19 @@ This module supports these email types (see `/skills/marketing/writing-course-pr
 **Standard citation:**
 ```
 "[Quote or concept]"
-— The Sovereign Man: A Shadow Work Online Course, King Within Module
+— The Sovereign Man: A Shadow Work Online Course, Magician Within Module
 ```
 
 **With video chapter reference:**
 ```
 "[Quote]"
-— The Sovereign Man: A Shadow Work Online Course, King Within Module, Chapter [#]
+— The Sovereign Man: A Shadow Work Online Course, Magician Within Module, Chapter [#]
 ```
 
 ## Module Structure
 
 ```
-modules/king-within/
+modules/magician-within/
 ├── README.md                          # This file
 ├── workbook.md                        # Exercises and frameworks
 ├── aims-and-practices.md              # Goals and applications
@@ -123,4 +123,4 @@ modules/king-within/
 ---
 
 **Course URL:** https://masculinetest.com/home/sovereign-man-a-shadow-work-online-course/
-**Module:** The King Within
+**Module:** The Magician Within

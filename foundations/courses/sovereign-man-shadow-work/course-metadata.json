@@ -1,1 +1,42 @@
-
+{
+  "course": {
+    "name": "The Sovereign Man: A Shadow Work Online Course",
+    "url": "https://masculinetest.com/home/sovereign-man-a-shadow-work-online-course/",
+    "brand": "EmpowerMen",
+    "tagline": "Discover your true power through shadow work and archetypal integration",
+    "primary_framework": "Four Archetypal Energies (King, Warrior, Magician, Lover)"
+  },
+  "modules": {
+    "king-within": {
+      "name": "The King Within",
+      "description": "Exploration of the King archetype as the foundation of mature masculinity, including shadow work and integration practices",
+      "chapters": 5,
+      "key_concepts": [
+        "order",
+        "blessing",
+        "centeredness",
+        "leadership",
+        "emotional-stability",
+        "archetypal-integration"
+      ],
+      "email_themes": [
+        "archetype-insight",
+        "shadow-work-prompt",
+        "storytelling-movie-assignment",
+        "common-pitfalls"
+      ],
+      "content_paths": {
+        "workbook": "modules/king-within/workbook.md",
+        "aims_and_practices": "modules/king-within/aims-and-practices.md",
+        "movie_assignments": "modules/king-within/movie-assignments.md",
+        "video_transcripts": "modules/king-within/video-transcripts/"
+      }
+    }
+  },
+  "cta": {
+    "primary_url": "https://masculinetest.com/home/sovereign-man-a-shadow-work-online-course/",
+    "button_text": "Explore The Sovereign Man Course",
+    "secondary_text": "Start your journey here →",
+    "brand_name": "EmpowerMen"
+  }
+}

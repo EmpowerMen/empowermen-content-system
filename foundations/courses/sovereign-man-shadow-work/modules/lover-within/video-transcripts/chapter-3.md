@@ -1,15 +1,17 @@
-# The King Within - Aims and Practices
+# The Lover Within - Chapter 3 Transcript
 
 **Course:** The Sovereign Man: A Shadow Work Online Course
 
-**Module:** The King Within
+**Module:** The Lover Within
+
+**Chapter:** 3
 
 **URL:** https://masculinetest.com/home/sovereign-man-a-shadow-work-online-course/
 
 ---
 
-## AIMS AND PRACTICES
+## CHAPTER 3 TRANSCRIPT
 
-*Add aims and practices content here*
+*Add video transcript content here*
 
 ---

@@ -1,15 +1,15 @@
-# The King Within - Aims and Practices
+# The Lover Within - Movie Assignments
 
 **Course:** The Sovereign Man: A Shadow Work Online Course
 
-**Module:** The King Within
+**Module:** The Lover Within
 
 **URL:** https://masculinetest.com/home/sovereign-man-a-shadow-work-online-course/
 
 ---
 
-## AIMS AND PRACTICES
+## MOVIE ASSIGNMENTS
 
-*Add aims and practices content here*
+*Add movie assignments content here*
 
 ---
