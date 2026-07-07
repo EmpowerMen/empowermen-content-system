@@ -259,15 +259,19 @@ Ignoring your masculine shadows risks emotional disconnection, stalled growth, a
 
 ---
 
-## 21. Messaging Hierarchy Summary
+## 21. Messaging Hierarchy Summary  
 
-Level
-
-Content Type
-
-Example
-
-1
+| Level | Content Type                   | Example                                                                                      |
+|-------|-------------------------------|----------------------------------------------------------------------------------------------|
+| 1     | Core Value Proposition         | The Sovereign Man Master Plan helps men build calm confidence, clear boundaries, and authentic connection through a 30-day structured inner workout. |
+| 2     | Messaging Pillars              | Power (King): Calm leadership; Fortitude (Warrior): Courage and discipline; Mindfulness (Magician): Clarity and strategy; Devotion (Lover): Emotional connection. |
+| 3     | Feature Messages              | Clear assessments, 30-day roadmap, flexible learning, brotherhood community, risk-free trial. |
+| 4     | Audience Mapping              | Tailored messages for men feeling stuck, avoiding conflict, overwhelmed, or disconnected.    |
+| 5     | Calls to Action               | Start your inner workout today, download free preview, enroll in full Master Plan + Brotherhood. |
+| 6     | Soundbites (PEACE Framework) | Problem, Empathy, Answer, Change, End Result soundbites crafted for marketing and sales use.  |
+| 7     | Risk Reversal                 | 30-day money-back guarantee on first module.                                                |
+| 8     | What’s at Stake               | Emotional disconnection, stalled growth, damaged relationships without action.              |
+| 9     | Success Metrics              | Calm leadership, courage, clarity, connection, empowerment, brotherhood support.            |
 
 Core Value Proposition
 
