@@ -22,7 +22,8 @@ Get your shit together in 30 days and lead your life with calm authority.
 
 ## 4. Elevator Pitch
 
-Many men feel stuck—unable to set boundaries, second-guessing decisions, and disconnected from purpose. The Sovereign Man Master Plan is a 30-day structured program that gives you clear assessments, specific exercises, and weekly action plans to build leadership, boundaries, strategy, and connection. So you can finally get your life in order and start living a better life with calm authority.
+Many men feel stuck—unable to set boundaries, second-guessing decisions, and disconnected from purpose. The Sovereign Man Master Plan is a 30-day online course that creates your personalized inner workout plan—complete with assessments, exercises, and clear aims to build the inner strength you need to lead your life with purpose.
+
 
 ---
 
