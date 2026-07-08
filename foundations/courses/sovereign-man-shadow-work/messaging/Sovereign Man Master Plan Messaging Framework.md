@@ -10,19 +10,19 @@
 
 ## 2. One-Liner
 
-A 30-day structured program that helps men build calm confidence, firm boundaries, clear strategy, and authentic connection by integrating their King, Warrior, Magician, and Lover archetypes using Jungian depth psychology.
+A 60-day structured program that helps men build calm confidence, firm boundaries, clear strategy, and authentic connection by integrating their King, Warrior, Magician, and Lover archetypes using Jungian depth psychology.
 
 ---
 
 ## 3. Tagline
 
-Get your shit together in 30 days and lead your life with calm authority.
+Get your shit together in 60 days and lead your life with calm authority.
 
 ---
 
 ## 4. Elevator Pitch
 
-Many men feel stuck—unable to set boundaries, second-guessing decisions, and disconnected from purpose. The Sovereign Man Master Plan is a 30-day online course that creates your personalized inner workout plan—complete with assessments, exercises, and clear aims to build the inner strength you need to lead your life with purpose.
+Many men feel stuck—unable to set boundaries, second-guessing decisions, and disconnected from purpose. The Sovereign Man Master Plan is a 60-day online course that creates your personalized inner workout plan—complete with assessments, exercises, and clear aims to build the inner strength you need to lead your life with purpose.
 
 
 ---
@@ -55,7 +55,7 @@ Because without addressing these issues, men risk living a life of frustration, 
 
 ## 8. Solution (How does Sovereign Man fix it?)
 
-The Sovereign Man Master Plan provides a clear, step-by-step 30-day roadmap with assessments, video lessons, workbooks, and exercises to build strength in the King, Warrior, Magician, and Lover archetypes. Supported by a brotherhood community, it delivers practical, no-nonsense guidance that fits into busy lives and produces measurable results.
+The Sovereign Man Master Plan provides a clear, step-by-step 60-day roadmap with assessments, video lessons, workbooks, and exercises to build strength in the King, Warrior, Magician, and Lover archetypes. Supported by a brotherhood community, it delivers practical, no-nonsense guidance that fits into busy lives and produces measurable results.
 
 ---
 
@@ -74,7 +74,7 @@ The Sovereign Man Master Plan provides a clear, step-by-step 30-day roadmap with
 ## 10. Features (Key features of the product)
 
 - Free King Warrior Magician Lover assessment to identify your masculine energy profile.
-- 30-day structured Master Plan with weekly action plans.
+- 60-day structured Master Plan with weekly action plans.
 - Video lessons and comprehensive workbooks.
 - Practical exercises rooted in Jungian depth psychology.
 - Access to a brotherhood community for support and accountability.
@@ -107,7 +107,7 @@ Academic Jungian Psychology
 
 Too theoretical and abstract
 
-Practical, actionable 30-day Master Plan
+Practical, actionable 60-day program
 
 Depth psychology made accessible and practical
 
