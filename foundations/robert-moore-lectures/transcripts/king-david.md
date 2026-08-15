@@ -1,5 +1,3 @@
----
-
 ## title: “David the King - A Psychological Perspective”
 
 series: “King, Warrior, Magician, Lover”
