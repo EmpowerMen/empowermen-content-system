@@ -13,7 +13,7 @@ tags:
 archetypes:
   - "Magician"
 development_areas:
-record_count: 6
+record_count: 7
 ---
 
 # Magician Exemplars
@@ -29,8 +29,16 @@ inhabiting Magician energy ("any really hotshot mathematicians, you
 ought to get to know, know somebody like Einstein, Bertrand Russell").
 Carl Jung is discussed at length in the Moore & Gillette book
 (`king_warrior_magician_lover_book`) as a man who "thought of himself as
-a Magician." Leonardo da Vinci, Nikola Tesla, and Marie Curie are not
-referenced in the Moore transcripts currently in this repo; they're
+a Magician," and Moore says so directly in the `the-magician-within.md`
+lecture transcript: "People have said that Carl Jung, obviously, was a
+magus of some rank." Joseph Campbell is Moore's most extensively
+discussed real-world Magician exemplar across that same transcript —
+Moore calls him "a great magus" and credits him with bringing "enormous
+magician insight and energy" to a mass audience through *The Power of
+Myth*, while noting in the same breath that Campbell "wasn't balanced"
+(Moore reads him as strong in Magician and Lover energy, but weak in
+King and Warrior). Leonardo da Vinci, Nikola Tesla, and Marie Curie are
+not referenced in the Moore transcripts currently in this repo; they're
 included here as standalone exemplars of the same traits.
 
 ## Records
@@ -112,4 +120,17 @@ included here as standalone exemplars of the same traits.
 #### Text
 
 "Nothing in life is to be feared, it is only to be understood." — Marie Curie
+
+### Record 007
+
+- Note: Widely cited; consistent with Campbell's teaching in *The Power of Myth*
+- Tags: Insight, Wisdom
+- Archetypes: Magician
+- Development Area:
+- Media:
+- Link:
+
+#### Text
+
+"A myth is a public dream, a dream is a private myth." — Joseph Campbell
 </content>
