@@ -37,7 +37,7 @@ Three new hero pieces a week. Everything else is derived from them by AI-drafted
 | YouTube | Longer video (hero) | 1 | New. Rotates between a 5 to 10 minute explainer, a Moore compilation and an affirmations video |
 | YouTube | Community post | 2 | Derived from the Shorts and the quote backlog |
 | Instagram | Reel | 2 | Derived. The backlog (14 carousel sets, 5 Reels) covers a one-a-day plan for two weeks, then it drops to this |
-| Instagram | Carousel | 2 | Derived from the week's Shorts; square 1080 x 1080, 7 slides |
+| Instagram | Carousel | 2 | Derived from the week's Shorts; square 1080 x 1080, 7 slides. Made once with the YouTube community post and posted on both; only the last slide and caption change |
 | X | Original posts | 10 (2 per weekday) | Derived, drafted in formats A, B, C, M and T |
 | X | Thread | 1 | Derived from the figure or door piece of the week |
 | Email | Soul Gym (Tuesday), Track 2 (Saturday) | 2 | AI drafts with the segment brief; approved. The quote card is derived |
