@@ -41,7 +41,7 @@ Three new hero pieces a week: two Shorts, plus a longer video every second week 
 | X | Original posts | 10 (2 per weekday) | 2 written by the founder in their own words, 5 pulled from the evergreen library, 3 derived from the week's Shorts. Formats A, B, C, M and T |
 | X | Thread | 1 | Derived from the figure or door piece of the week |
 | Email | Soul Gym (Tuesday), Track 2 (Saturday) | 2 | AI drafts with the segment brief; approved. The quote card is derived |
-| Skool | Posts | 3 | 1 written by the founder each week. 2 pulled from the library: course-linked posts (one per module and lesson, made once) and affirmation or aim call-outs. Proposed, to be fitted to the existing weekly reminders |
+| Skool | Posts | 3 | Fits the three existing calendar reminders. Monday: a direct question or personal-share prompt, written by the founder. Wednesday: archetype insight cycling King, Warrior, Magician, Lover with the course, from the library. Friday: Movie Night thread (questions already in each module) from the library, alternating with a member spotlight |
 | Paid ads | Static creative | Test cycle | AI-made statics |
 
 ## Time budget (about 9 hours in a Short-only week, about 10 in a longer-video week)
@@ -76,11 +76,11 @@ Never cut the Moore audio check or the fact-check on a named person.
 
 Some Skool and X formats do not date, so they are made once in batch sessions and drawn from each week. Tag every piece by energy, pillar and format, and record a used-on date so nothing repeats too soon and gaps show early.
 
-- **Skool:** course-linked posts, one per module and lesson, plus affirmation and aim call-outs.
+- **Skool:** the Wednesday archetype posts (one per energy and module) and the Friday Movie Night threads.
 - **X:** "You're inflated when..." posts, quote cards and Moore lines.
 - **Not library material:** posts about figures in the news, replies and the weekly thread.
 
-Weekly work is picking from the library, about 15 minutes. Build it before relying on it, starting with the Skool course-linked set.
+Weekly work is picking from the library, about 15 minutes. Build it before relying on it, starting with the Skool Wednesday and Friday set.
 
 ## Repurposing rule
 
