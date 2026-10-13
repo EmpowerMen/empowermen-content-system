@@ -29,7 +29,7 @@ Public and paid-community versions differ. A public carousel and its Skool versi
 
 ## Weekly rhythm
 
-Three new hero pieces a week: two Shorts, plus a longer video every second week or a third Short on the other weeks. Everything else is derived from them by AI-drafted copy and design that is approved in one weekly batch.
+Three new hero pieces a week: two Shorts, plus a longer video every second week or a third Short on the other weeks. Everything else is derived from them, pulled from a pre-made library of evergreen posts, or written in small amounts. AI-drafted copy and design is approved in one weekly batch, and the library is made and approved once.
 
 | Channel | Format | Per week | Made how |
 | --- | --- | --- | --- |
@@ -38,19 +38,20 @@ Three new hero pieces a week: two Shorts, plus a longer video every second week 
 | YouTube | Community post | 2 | Derived from the Shorts and the quote backlog |
 | Instagram | Reel | 2 | Derived. The backlog (14 carousel sets, 5 Reels) covers a one-a-day plan for two weeks, then it drops to this |
 | Instagram | Carousel | 2 | Derived from the week's Shorts; square 1080 x 1080, 7 slides. Made once with the YouTube community post and posted on both; only the last slide and caption change |
-| X | Original posts | 10 (2 per weekday) | Derived, drafted in formats A, B, C, M and T |
+| X | Original posts | 10 (2 per weekday) | 2 written by the founder in their own words, 5 pulled from the evergreen library, 3 derived from the week's Shorts. Formats A, B, C, M and T |
 | X | Thread | 1 | Derived from the figure or door piece of the week |
 | Email | Soul Gym (Tuesday), Track 2 (Saturday) | 2 | AI drafts with the segment brief; approved. The quote card is derived |
-| Skool | Posts | 3 | Derived: a course-linked carousel, an affirmation, an aim or practice call-out. Proposed, to be fitted to the existing weekly reminders |
+| Skool | Posts | 3 | 1 written by the founder each week. 2 pulled from the library: course-linked posts (one per module and lesson, made once) and affirmation or aim call-outs. Proposed, to be fitted to the existing weekly reminders |
 | Paid ads | Static creative | Test cycle | AI-made statics |
 
-## Time budget (8.5 hours in a Short-only week, 10 in a longer-video week)
+## Time budget (about 9 hours in a Short-only week, about 10 in a longer-video week)
 
 | Task | Hours |
 | --- | --- |
 | 2 Shorts: review script, approve voice-over and visuals, schedule | 3 |
 | Longer video every second week (a third Short on the other weeks) | 3, or 1.5 for the third Short |
-| Weekly approval batch for every derived piece | 1 |
+| Weekly approval batch for every derived piece (Instagram, X, YouTube community; the library is approved once, at build time) | 0.5 |
+| Write 1 Skool post and 2 X posts; pick the week's library posts | 0.75 |
 | 2 emails: approve drafts and segment | 1 |
 | Scheduling and manual posting in one sitting | 1 |
 | X replies: 15 minutes each weekday | 1 |
@@ -58,15 +59,28 @@ Three new hero pieces a week: two Shorts, plus a longer video every second week 
 The approval batch is the tightest assumption.
 
 **The founder does:** chooses the hero idea, approves voice and visuals, checks Moore lines against the audio, approves fact-checks on named people.
-**AI drafts:** scripts, captions, carousels, quote cards, X posts and threads, email drafts, Skool posts, ad creatives.
+**AI drafts:** scripts, captions, carousels, quote cards, X posts and threads, email drafts, Skool posts, ad creatives. The library is built in batch sessions outside the weekly hours: every Moore line is checked against the audio and every named person fact-checked before a piece goes in.
 
 ## If a week slips, cut in this order
 
 1. The X reply slot to 5 minutes.
 2. The longer video swapped for a third Short (or pushed to the following week).
-3. X volume down to one post a day.
+3. The fresh X posts replaced by library posts.
+4. X volume down to one post a day.
+
+Keep the fresh Skool post to the last.
 
 Never cut the Moore audio check or the fact-check on a named person.
+
+## Evergreen library
+
+Some Skool and X formats do not date, so they are made once in batch sessions and drawn from each week. Tag every piece by energy, pillar and format, and record a used-on date so nothing repeats too soon and gaps show early.
+
+- **Skool:** course-linked posts, one per module and lesson, plus affirmation and aim call-outs.
+- **X:** "You're inflated when..." posts, quote cards and Moore lines.
+- **Not library material:** posts about figures in the news, replies and the weekly thread.
+
+Weekly work is picking from the library, about 15 minutes. Build it before relying on it, starting with the Skool course-linked set.
 
 ## Repurposing rule
 
