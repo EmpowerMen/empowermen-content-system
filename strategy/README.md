@@ -18,7 +18,6 @@ EmpowerMen content puts fire in the belly of men who are stuck in boy psychology
 | `channels-and-cadence.md` | What each channel is for, the weekly rhythm, the time budget, what to cut first |
 | `measurement.md` | Funnel path, leading indicator per channel, baselines, attribution |
 | `parked-ideas.md` | Ideas not yet scheduled, kept so they are not lost |
-| `idea-bank/README.md` | Scope and schema for the per-pillar shelf of quotes and ideas |
 
 ## Rules that hold across everything
 
