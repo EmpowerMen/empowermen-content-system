@@ -25,7 +25,7 @@ The three whiteboard buckets map on: Discoverable = Discover, Community = Deepen
 | Paid ads | Convert | Static creatives, test-first. Instagram, YouTube, Reddit and X with the same creative; US primary | Straight to the free test, tracked to sign-up |
 | Reddit | Convert (ads only) | No organic posting yet | Free test |
 
-Public and paid-community versions differ. A public carousel and its Skool version share the idea but not the call to action. The Skool version adds a course direction, for example "if your Lover energy is raw, try Module X, Lesson Y".
+Public and paid-community versions differ. A public carousel and its Skool version share the idea but not the call to action. The Skool version adds a course direction, for example "if your Lover energy is raw, try Module X, Lesson Y". Carousels do not display well on Skool, so the Skool version is a text post or a single image, not a carousel.
 
 ## Weekly rhythm
 
