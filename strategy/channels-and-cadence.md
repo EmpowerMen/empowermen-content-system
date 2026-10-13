@@ -29,12 +29,12 @@ Public and paid-community versions differ. A public carousel and its Skool versi
 
 ## Weekly rhythm
 
-Three new hero pieces a week. Everything else is derived from them by AI-drafted copy and design that is approved in one weekly batch.
+Three new hero pieces a week: two Shorts, plus a longer video every second week or a third Short on the other weeks. Everything else is derived from them by AI-drafted copy and design that is approved in one weekly batch.
 
 | Channel | Format | Per week | Made how |
 | --- | --- | --- | --- |
 | YouTube | Short (hero) | 2 | New. AI drafts script, voice-over and visuals; reviewed and approved. One is a pillar problem Short, the other alternates between a door piece and the Sales/Promo test Short |
-| YouTube | Longer video (hero) | 1 | New. Rotates between a 5 to 10 minute explainer, a Moore compilation and an affirmations video |
+| YouTube | Longer video (hero) | 1 every second week | New. Rotates between a 5 to 10 minute explainer, a Moore compilation and an affirmations video. On the other weeks a third Short takes its place |
 | YouTube | Community post | 2 | Derived from the Shorts and the quote backlog |
 | Instagram | Reel | 2 | Derived. The backlog (14 carousel sets, 5 Reels) covers a one-a-day plan for two weeks, then it drops to this |
 | Instagram | Carousel | 2 | Derived from the week's Shorts; square 1080 x 1080, 7 slides. Made once with the YouTube community post and posted on both; only the last slide and caption change |
@@ -44,12 +44,12 @@ Three new hero pieces a week. Everything else is derived from them by AI-drafted
 | Skool | Posts | 3 | Derived: a course-linked carousel, an affirmation, an aim or practice call-out. Proposed, to be fitted to the existing weekly reminders |
 | Paid ads | Static creative | Test cycle | AI-made statics |
 
-## Time budget (about 10 hours)
+## Time budget (8.5 hours in a Short-only week, 10 in a longer-video week)
 
 | Task | Hours |
 | --- | --- |
 | 2 Shorts: review script, approve voice-over and visuals, schedule | 3 |
-| 1 longer video | 3 |
+| Longer video every second week (a third Short on the other weeks) | 3, or 1.5 for the third Short |
 | Weekly approval batch for every derived piece | 1 |
 | 2 emails: approve drafts and segment | 1 |
 | Scheduling and manual posting in one sitting | 1 |
@@ -63,7 +63,7 @@ The approval batch is the tightest assumption.
 ## If a week slips, cut in this order
 
 1. The X reply slot to 5 minutes.
-2. The longer video swapped for a third Short.
+2. The longer video swapped for a third Short (or pushed to the following week).
 3. X volume down to one post a day.
 
 Never cut the Moore audio check or the fact-check on a named person.
