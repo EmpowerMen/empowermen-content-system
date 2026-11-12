@@ -2,9 +2,9 @@
 {
   "source": "Dr. Robert Moore Lectures",
   "description": "Complete lecture transcripts from Dr. Robert Moore on Jungian masculine psychology and archetypal theory",
-  "last_updated": "2026-05-25",
+  "last_updated": "2026-11-12",
   "version": "1.0",
-  "total_lectures": 0,
+  "total_lectures": 1,
   "series": [
     {
       "id": "kwml",
@@ -21,6 +21,48 @@
       "folder": "transcripts/masculine-psychology",
       "lecture_count": 0,
       "lectures": []
+    },
+    {
+      "id": "standalone-footage",
+      "title": "Standalone Footage",
+      "description": "Individual Robert Moore talks and recorded footage that are not part of a numbered lecture series",
+      "folder": "transcripts",
+      "lecture_count": 1,
+      "lectures": [
+        {
+          "id": "standalone-footage-01",
+          "title": "The Warrior Within (Footage)",
+          "file": "transcripts/robert-moore-footage-warrior-archetype.md",
+          "series": "standalone-footage",
+          "lecture_number": null,
+          "date_delivered": "unknown",
+          "duration_minutes": 41,
+          "topics": ["warrior-archetype", "initiation", "shadow-work"],
+          "archetypes": ["warrior", "king", "magician", "lover"],
+          "key_concepts": ["initiated warrior", "monster boy", "aggression vs assertiveness", "aversive self function", "adversarial self function", "efficacy self function", "rage vs anger", "price of nice", "lover-warrior axis", "royal-magician axis"],
+          "key_quotes": [
+            {
+              "text": "Without modulated, tuned, trained aggression, you will not be able to organise.",
+              "timestamp": "00:04:18",
+              "context": "Moore on why aggression must be developed rather than suppressed",
+              "topics": ["warrior-archetype"]
+            },
+            {
+              "text": "Anger will seek the right. It'll seek to correct things. And not destroy everything.",
+              "timestamp": "00:19:55",
+              "context": "Distinguishing anger from rage, which he calls unregulated warrior energy",
+              "topics": ["warrior-archetype", "shadow-work"]
+            },
+            {
+              "text": "Nice is not a term we apply to men. That is a term we apply to boys.",
+              "timestamp": "00:33:14",
+              "context": "The price of nice, from George Bach's Creative Aggression",
+              "topics": ["initiation", "warrior-archetype"]
+            }
+          ],
+          "related_lectures": []
+        }
+      ]
     }
   ],
   "topics_index": {
@@ -31,7 +73,7 @@
     },
     "warrior-archetype": {
       "description": "The mature masculine energy of discipline, courage, and action",
-      "lectures": [],
+      "lectures": ["standalone-footage-01"],
       "key_concepts": ["discipline", "courage", "boundaries", "shadow warrior", "sadist", "masochist"]
     },
     "magician-archetype": {
@@ -46,12 +88,12 @@
     },
     "shadow-work": {
       "description": "Process of integrating unconscious and repressed archetypal energies",
-      "lectures": [],
+      "lectures": ["standalone-footage-01"],
       "key_concepts": ["shadow integration", "projection", "possession", "inflation", "deflation"]
     },
     "initiation": {
       "description": "Masculine rites of passage and developmental transitions",
-      "lectures": [],
+      "lectures": ["standalone-footage-01"],
       "key_concepts": ["boy psychology", "man psychology", "initiation crisis", "elder blessing", "ritual"]
     },
     "archetypal-possession": {
