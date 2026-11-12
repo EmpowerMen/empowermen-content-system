@@ -1,18 +1,238 @@
-
 {
   "source": "Dr. Robert Moore Lectures",
   "description": "Complete lecture transcripts from Dr. Robert Moore on Jungian masculine psychology and archetypal theory",
   "last_updated": "2026-11-12",
   "version": "1.0",
-  "total_lectures": 1,
+  "total_lectures": 14,
   "series": [
     {
       "id": "kwml",
       "title": "King, Warrior, Magician, Lover",
       "description": "Foundational lecture series on the four masculine archetypes",
-      "folder": "transcripts/king-warrior-magician-lover",
-      "lecture_count": 0,
-      "lectures": []
+      "folder": "transcripts",
+      "lecture_count": 9,
+      "lectures": [
+        {
+          "id": "kwml-01",
+          "title": "Healing the Masculine",
+          "file": "transcripts/healing_the_masculine.md",
+          "series": "kwml",
+          "lecture_number": null,
+          "date_delivered": "1987-02-20",
+          "duration_minutes": 60,
+          "topics": ["initiation", "masculine-maturity", "king-archetype"],
+          "archetypes": ["king", "warrior", "magician", "lover"],
+          "key_concepts": ["ritual initiation", "masculinity crisis", "modern culture", "tyrant", "weakling", "ego-self axis"],
+          "key_quotes": [],
+          "related_lectures": ["kwml-02"]
+        },
+        {
+          "id": "kwml-02",
+          "title": "A Neo-Jungian Mapping of the Psyche",
+          "file": "transcripts/a-neo-jungian-mapping-of-the-psyche.md",
+          "series": "kwml",
+          "lecture_number": 1,
+          "date_delivered": "1988-03-14",
+          "duration_minutes": 90,
+          "topics": ["king-archetype", "warrior-archetype", "magician-archetype", "lover-archetype", "archetypal-possession", "shadow-work"],
+          "archetypes": ["king", "warrior", "magician", "lover"],
+          "key_concepts": ["archetypal self", "ego-archetypal self axis", "quadrature", "individuation", "transcendent function", "creative tension", "inflation", "complexes", "shadow"],
+          "key_quotes": [],
+          "related_lectures": ["kwml-03", "kwml-07"]
+        },
+        {
+          "id": "kwml-03",
+          "title": "Archetypal Images of the King and Warrior",
+          "file": "transcripts/archetypal_images_of_the_king_and_warrior.md",
+          "series": "kwml",
+          "lecture_number": 2,
+          "date_delivered": "1988-04-25",
+          "duration_minutes": 60,
+          "topics": ["king-archetype", "warrior-archetype", "archetypal-possession", "shadow-work"],
+          "archetypes": ["king", "warrior"],
+          "key_concepts": ["sacred kingship", "infantile grandiosity", "shadow king", "shadow warrior", "archetypal inflation", "sacred space", "initiation"],
+          "key_quotes": [],
+          "related_lectures": ["kwml-02", "kwml-04", "amp-02"]
+        },
+        {
+          "id": "kwml-04",
+          "title": "Archetypal Images of the Magician and the Lover",
+          "file": "transcripts/archetypal_images_of_the_magician_and_the_lover.md",
+          "series": "kwml",
+          "lecture_number": null,
+          "date_delivered": "unknown",
+          "duration_minutes": 100,
+          "topics": ["magician-archetype", "lover-archetype", "archetypal-possession"],
+          "archetypes": ["magician", "lover", "king", "warrior"],
+          "key_concepts": ["archetypal transference", "archetypal possession", "numinous experience", "containment", "ego-self axis", "narcissistic pathology"],
+          "key_quotes": [
+            {
+              "text": "These archetypes are aggressive. They're not passive, they're aggressive. They want you, they want all of you.",
+              "timestamp": null,
+              "context": "From the transcript's Key Quotes section",
+              "topics": ["magician-archetype", "lover-archetype"]
+            },
+            {
+              "text": "The numinous without containment destroys you.",
+              "timestamp": null,
+              "context": "From the transcript's Key Quotes section",
+              "topics": ["magician-archetype", "lover-archetype"]
+            },
+            {
+              "text": "You ought to be able to love very, very promiscuously without acting out all over the place.",
+              "timestamp": null,
+              "context": "From the transcript's Key Quotes section",
+              "topics": ["magician-archetype", "lover-archetype"]
+            },
+            {
+              "text": "If the lover is not constellated in the magus, the magus will be a shadow magus.",
+              "timestamp": null,
+              "context": "From the transcript's Key Quotes section",
+              "topics": ["magician-archetype", "lover-archetype"]
+            },
+            {
+              "text": "The development of the ego-self axis requires discipline.",
+              "timestamp": null,
+              "context": "From the transcript's Key Quotes section",
+              "topics": ["magician-archetype", "lover-archetype"]
+            }
+          ],
+          "related_lectures": ["kwml-03", "amp-03", "amp-04"]
+        },
+        {
+          "id": "kwml-05",
+          "title": "David the King - A Psychological Perspective",
+          "file": "transcripts/king-david.md",
+          "series": "kwml",
+          "lecture_number": 3,
+          "date_delivered": "1989",
+          "duration_minutes": 90,
+          "topics": ["king-archetype", "masculine-maturity", "shadow-work", "lover-archetype"],
+          "archetypes": ["king", "warrior", "magician", "lover"],
+          "key_concepts": ["mythic biography", "hubris", "cosmos and chaos", "archetypal integration", "generativity", "shadow king"],
+          "key_quotes": [],
+          "related_lectures": ["amp-01"]
+        },
+        {
+          "id": "kwml-06",
+          "title": "Dancing the Four Quarters: Visions of Grassroots Masculine Leadership",
+          "file": "transcripts/dancing-the-four-quarters.md",
+          "series": "kwml",
+          "lecture_number": null,
+          "date_delivered": "1991",
+          "duration_minutes": 102,
+          "topics": ["masculine-maturity", "initiation"],
+          "archetypes": ["king", "warrior", "magician", "lover"],
+          "key_concepts": ["grassroots masculine leadership", "men's councils", "post-tribal planetary initiation", "stewardship", "generativity", "Earth Knights"],
+          "key_quotes": [],
+          "related_lectures": []
+        },
+        {
+          "id": "kwml-07",
+          "title": "Archetype, Compulsion, and Healing",
+          "file": "transcripts/archetype-compulsion-healing.md",
+          "series": "kwml",
+          "lecture_number": 1,
+          "date_delivered": "1999-05-22",
+          "duration_minutes": 240,
+          "topics": ["king-archetype", "warrior-archetype", "magician-archetype", "lover-archetype", "archetypal-possession", "shadow-work"],
+          "archetypes": ["king", "warrior", "magician", "lover"],
+          "key_concepts": ["collective unconscious", "archetypal self", "compulsivity", "grandiose exhibitionistic self-organization", "structural lines of development", "regulation", "shadow of the healer"],
+          "key_quotes": [],
+          "related_lectures": ["kwml-02", "kwml-08"]
+        },
+        {
+          "id": "kwml-08",
+          "title": "Ego and Archetype: The Genius of Edward Edinger",
+          "file": "transcripts/ego-and-archetype.md",
+          "series": "kwml",
+          "lecture_number": null,
+          "date_delivered": "2000-02",
+          "duration_minutes": 90,
+          "topics": ["archetypal-possession"],
+          "archetypes": ["king", "warrior", "magician", "lover"],
+          "key_concepts": ["grandiosity", "ego-self axis", "archetypal pressure", "sacrifice", "alchemy", "objective psyche"],
+          "key_quotes": [],
+          "related_lectures": ["kwml-07", "kwml-09"]
+        },
+        {
+          "id": "kwml-09",
+          "title": "Archetypes and Ecstasy",
+          "file": "transcripts/archetypes-and-ecstasy.md",
+          "series": "kwml",
+          "lecture_number": 3,
+          "date_delivered": "circa 2007",
+          "duration_minutes": 90,
+          "topics": ["archetypal-possession"],
+          "archetypes": ["king", "warrior", "magician", "lover"],
+          "key_concepts": ["ecstasy", "archetypal self", "system self (inner vessel)", "Great Other", "active imagination", "gratitude and humility", "panentheism"],
+          "key_quotes": [],
+          "related_lectures": ["kwml-08"]
+        }
+      ]
+    },
+    {
+      "id": "amp",
+      "title": "A Study in Masculine Psychology",
+      "description": "1989 Chicago lecture series (digitally restored cassette recordings): The King Within, The Warrior Within, The Magician Within, The Lover Within",
+      "folder": "transcripts",
+      "lecture_count": 4,
+      "lectures": [
+        {
+          "id": "amp-01",
+          "title": "The King Within: The King Archetype",
+          "file": "transcripts/the-king-within.md",
+          "series": "amp",
+          "lecture_number": 2,
+          "date_delivered": "1989",
+          "duration_minutes": 90,
+          "topics": ["king-archetype", "masculine-maturity", "shadow-work"],
+          "archetypes": ["king"],
+          "key_concepts": ["generativity", "ordering", "blessing", "shadow king", "tyrant", "weakling"],
+          "key_quotes": [],
+          "related_lectures": ["amp-02", "kwml-05"]
+        },
+        {
+          "id": "amp-02",
+          "title": "The Warrior Within",
+          "file": "transcripts/the-warrior-within.md",
+          "series": "amp",
+          "lecture_number": null,
+          "date_delivered": "approx. 1989",
+          "topics": ["warrior-archetype", "shadow-work", "archetypal-possession"],
+          "archetypes": ["warrior"],
+          "key_concepts": ["objective psyche", "numinosity", "ego-archetype axis", "paranoia", "passive aggression", "sadism and masochism", "nihilism and cynicism", "sword symbolism"],
+          "key_quotes": [],
+          "related_lectures": ["amp-01", "amp-03", "standalone-footage-01", "kwml-03"]
+        },
+        {
+          "id": "amp-03",
+          "title": "The Magician Within",
+          "file": "transcripts/the-magician-within.md",
+          "series": "amp",
+          "lecture_number": null,
+          "date_delivered": "1989",
+          "topics": ["magician-archetype", "initiation"],
+          "archetypes": ["magician"],
+          "key_concepts": ["quaternio", "initiator and guide", "denial and disenchantment", "initiation and transformation", "hermeneutics"],
+          "key_quotes": [],
+          "related_lectures": ["amp-02", "amp-04", "kwml-04"]
+        },
+        {
+          "id": "amp-04",
+          "title": "The Lover Within",
+          "file": "transcripts/the-lover-within.md",
+          "series": "amp",
+          "lecture_number": 3,
+          "date_delivered": "1989",
+          "duration_minutes": 90,
+          "topics": ["lover-archetype", "shadow-work"],
+          "archetypes": ["lover"],
+          "key_concepts": ["intimacy", "appreciative consciousness", "shamelessness", "addiction", "ritual", "shadow lover", "integration"],
+          "key_quotes": [],
+          "related_lectures": ["amp-03", "kwml-04"]
+        }
+      ]
     },
     {
       "id": "masculine-psychology",
@@ -60,7 +280,7 @@
               "topics": ["initiation", "warrior-archetype"]
             }
           ],
-          "related_lectures": []
+          "related_lectures": ["amp-02", "kwml-03"]
         }
       ]
     }
@@ -68,42 +288,42 @@
   "topics_index": {
     "king-archetype": {
       "description": "The mature masculine energy of ordering, blessing, and generativity",
-      "lectures": [],
+      "lectures": ["kwml-01", "kwml-02", "kwml-03", "kwml-05", "kwml-07", "amp-01"],
       "key_concepts": ["ordering", "blessing", "generativity", "shadow king", "tyrant", "weakling"]
     },
     "warrior-archetype": {
       "description": "The mature masculine energy of discipline, courage, and action",
-      "lectures": ["standalone-footage-01"],
+      "lectures": ["kwml-02", "kwml-03", "kwml-07", "amp-02", "standalone-footage-01"],
       "key_concepts": ["discipline", "courage", "boundaries", "shadow warrior", "sadist", "masochist"]
     },
     "magician-archetype": {
       "description": "The mature masculine energy of awareness, wisdom, and transformation",
-      "lectures": [],
+      "lectures": ["kwml-02", "kwml-04", "kwml-07", "amp-03"],
       "key_concepts": ["awareness", "wisdom", "detachment", "shadow magician", "manipulator", "denying innocent one"]
     },
     "lover-archetype": {
       "description": "The mature masculine energy of connection, passion, and appreciation",
-      "lectures": [],
+      "lectures": ["kwml-02", "kwml-04", "kwml-05", "kwml-07", "amp-04"],
       "key_concepts": ["connection", "passion", "sensuality", "shadow lover", "addicted lover", "impotent lover"]
     },
     "shadow-work": {
       "description": "Process of integrating unconscious and repressed archetypal energies",
-      "lectures": ["standalone-footage-01"],
+      "lectures": ["kwml-02", "kwml-03", "kwml-05", "kwml-07", "amp-01", "amp-02", "amp-04", "standalone-footage-01"],
       "key_concepts": ["shadow integration", "projection", "possession", "inflation", "deflation"]
     },
     "initiation": {
       "description": "Masculine rites of passage and developmental transitions",
-      "lectures": ["standalone-footage-01"],
+      "lectures": ["kwml-01", "kwml-06", "amp-03", "standalone-footage-01"],
       "key_concepts": ["boy psychology", "man psychology", "initiation crisis", "elder blessing", "ritual"]
     },
     "archetypal-possession": {
       "description": "When archetypal energies overwhelm the ego",
-      "lectures": [],
+      "lectures": ["kwml-02", "kwml-03", "kwml-04", "kwml-07", "kwml-08", "kwml-09", "amp-02"],
       "key_concepts": ["inflation", "identification", "unconscious possession", "ego strength"]
     },
     "masculine-maturity": {
       "description": "Development from boy psychology to mature masculine",
-      "lectures": [],
+      "lectures": ["kwml-01", "kwml-05", "kwml-06", "amp-01"],
       "key_concepts": ["generativity", "stewardship", "responsibility", "blessing power"]
     }
   },
